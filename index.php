@@ -36,4 +36,5 @@ $resultado = $conexion->query("SELECT * FROM tareas ORDER BY fecha DESC");
 </table>
 </div>
 </body>
+<!-- Cambio para feature/listar-tareas -->
 </html>
