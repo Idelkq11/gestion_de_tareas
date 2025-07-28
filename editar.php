@@ -29,4 +29,5 @@ if ($_POST) {
 <a href="index.php" class="button">← Volver</a>
 </div>
 </body>
+<!-- Cambio para feature/editar-tarea -->
 </html>
